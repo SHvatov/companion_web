@@ -1,24 +1,8 @@
 # companionweb
+Web client for the test project for the Netcracker educational program (https://github.com/SHvatov/companion).
 
-## Project setup
-```
-npm install
-```
+# Idea
+This is a web client for the RESTful webservice.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# Stack
+Node, Vue, Vue Router, Vue Store, Axios
